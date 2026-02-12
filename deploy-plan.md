@@ -15,3 +15,7 @@
 - Promote build to production.
 - Check health and metrics; confirm rollback procedure.
 - Notify team and update release notes.
+
+## Rollback
+- Revert to previous tag or artifact; redeploy.
+- Verify service and notify.
